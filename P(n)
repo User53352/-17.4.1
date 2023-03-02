@@ -3,5 +3,5 @@
         return
     else:
         p(n-1)
-        print(n)
+        print(n+1)
 p(7)
